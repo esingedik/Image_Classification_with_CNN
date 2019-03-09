@@ -14,4 +14,4 @@ The network structure is as follows.
 
 ![Alt text](https://user-images.githubusercontent.com/35924267/54076726-7aec3d00-42bf-11e9-991b-09c61ee04de5.png?raw=true "Network_Structure")
 
-The accuracy of the model is 92.47%.
+The accuracy of the model is 95.21%.
